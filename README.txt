@@ -1,7 +1,8 @@
-
 Supervised Learning - CS 7641 - HW 3 Readme
 
-1. Please make sure you unzip the zip file found in my github link :
+Code and necessary data can be found here : 
+
+1. Please make sure you unzip the zip file found in my github link : https://github.com/bryanmarthin/Gatech-CS-7641-Assignment-3
 
 2. The zip files should contain :
 	1. Readme.txt
