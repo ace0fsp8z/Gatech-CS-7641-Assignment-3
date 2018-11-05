@@ -1,13 +1,14 @@
 # Gatech-CS-7641-Assignment-3
 Supervised Learning - CS 7641 - HW 3 Readme
 
-1. Please make sure you unzip the zip file found in my github link :
+1. Please make sure you unzip the zip file found in my github link : https://github.com/bryanmarthin/Gatech-CS-7641-Assignment-3
 
 2. The zip files should contain :
 	1. Readme.txt
 	2. 2 Python codes : 1 code for white wine data and 1 code for abalone data
 	3. various chart in PNG format generated from the code for reference in 2 folders : white wine folder and abalone folder
 	4. 2 CSV data sets : abalone data and white wine quality data --> DO NOT rename the files
+	5. Pdf of analysis
 
 3. Before running the code, make sure you have this python package installed in your PC
 	1. pandas
