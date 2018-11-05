@@ -3,7 +3,8 @@ Supervised Learning - CS 7641 - HW 3 Readme
 Code and necessary data can be found here : 
 
 1. Please make sure you get the files in my github link : https://github.com/bryanmarthin/Gatech-CS-7641-Assignment-3
-
+	- there is a zip file called bmarthin3.zip that contains the files mentioned in number 2 below
+	
 2. The files you get should contain :
 	1. Readme.txt
 	2. 2 Python codes : 1 code for white wine data and 1 code for abalone data
